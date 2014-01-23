@@ -28,7 +28,7 @@ PRODUCT_PACKAGES += \
 $(call inherit-product, device/amazon/otter/device.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 
-PRODUCT_NAME := full_otter
+PRODUCT_NAME := cm_otter
 PRODUCT_DEVICE := otter
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Amazon Kindle Fire

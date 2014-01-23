@@ -16,4 +16,3 @@
 
 add_lunch_combo full_otter-userdebug
 add_lunch_combo cmb_otter-userdebug
-
